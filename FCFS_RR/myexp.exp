@@ -1,0 +1,11 @@
+name myexp
+comment This experiment contains 2 runs
+run myrun algorithm FCFS key "FCFS"
+run myrun algorithm RR 1 key "RR 1"
+run myrun algorithm RR 2 key "RR 2"
+run myrun algorithm RR 3 key "RR 3"
+run myrun algorithm RR 4 key "RR 4"
+run myrun algorithm RR 5 key "RR 5"
+run myrun algorithm RR 20 key "RR 20"
+
+
